@@ -1,1 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<rss version="2.0"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.1">
+
+<channel>
+
+<title>RGPodcast_LB</title>
+<link>https://unlivablewilts.github.io/RGPodcast_LB/</link>
+<description>Private RGPodcast archive</description>
+<language>en-nz</language>
+
+<itunes:author>LB</itunes:author>
+<itunes:summary>Private RGPodcast archive</itunes:summary>
+
+<itunes:image href="https://unlivablewilts.github.io/RGPodcast_LB/artwork.jpg"/>
+
+<item>
+<title>401 - Podfather, Halloween</title>
+<description>401 - Podfather, Halloween</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/401%20-%20Podfather,%20Halloween.mp3" type="audio/mpeg"/>
+<guid>401</guid>
+</item>
+
+<item>
+<title>402 - Podfather, Thanksgiving</title>
+<description>402 - Podfather, Thanksgiving</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/402%20-%20Podfather,%20Thanksgiving.mp3" type="audio/mpeg"/>
+<guid>402</guid>
+</item>
+
+<item>
+<title>403 - Podfather, Christmas</title>
+<description>403 - Podfather, Christmas</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/403%20-%20Podfather,%20Christmas.mp3" type="audio/mpeg"/>
+<guid>403</guid>
+</item>
+
+<item>
+<title>404 - Fame Special</title>
+<description>404 - Fame Special</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/404%20-%20Fame%20Special.mp3" type="audio/mpeg"/>
+<guid>404</guid>
+</item>
+
+<item>
+<title>405 - Hour Long Bonus Podcast</title>
+<description>405 - Hour Long Bonus Podcast</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/405%20-%20Hour%20Long%20Bonus%20Podcast.mp3" type="audio/mpeg"/>
+<guid>405</guid>
+</item>
+
+<item>
+<title>406 - NME Radio Show</title>
+<description>406 - NME Radio Show</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/406%20-%20NME%20Radio%20Show.mp3" type="audio/mpeg"/>
+<guid>406</guid>
+</item>
+
+<item>
+<title>501</title>
+<description>501</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/501.mp3" type="audio/mpeg"/>
+<guid>501</guid>
+</item>
+
+<item>
+<title>502</title>
+<description>502</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/502.mp3" type="audio/mpeg"/>
+<guid>502</guid>
+</item>
+
+<item>
+<title>503</title>
+<description>503</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/503.mp3" type="audio/mpeg"/>
+<guid>503</guid>
+</item>
+
+<item>
+<title>801 - A Day in the Life of Karl</title>
+<description>801 - A Day in the Life of Karl</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/801%20-%20A%20Day%20in%20the%20Life%20of%20Karl.mp3" type="audio/mpeg"/>
+<guid>801</guid>
+</item>
+
+</channel>
+
+</rss>
