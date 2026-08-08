@@ -75,7 +75,14 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.1">
 <title>503</title>
 <description>503</description>
 <enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/503.mp3" type="audio/mpeg"/>
-<guid>503</guid>
+<guid>503-new</guid>
+</item>
+
+<item>
+<title>504</title>
+<description>504</description>
+<enclosure url="https://unlivablewilts.github.io/RGPodcast_LB/episodes/504.mp3" type="audio/mpeg"/>
+<guid>504</guid>
 </item>
 
 <item>
